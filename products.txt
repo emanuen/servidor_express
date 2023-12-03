@@ -1,0 +1,3 @@
+[{"title":"product1","description":"description of product1","price":4000,"thumbnail":"../root","code":234,"stack":15,"id":1},
+{"title":"product2","description":"description of product2","price":1500,"thumbnail":"../root","code":235,"stack":7,"id":2},
+{"title":"product3","description":"description of product3","price":6500,"thumbnail":"../root","code":236,"stack":7,"id":3}]
